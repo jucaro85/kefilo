@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Kefilo",
+    "slug": "kefilo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "kefilo",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.kefilo.app"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}

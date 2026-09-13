@@ -1,0 +1,15 @@
+node_modules/
+.npm-cache/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# @generated expo-cli
+expo-env.d.ts
